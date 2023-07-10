@@ -1,0 +1,17 @@
+{
+    "token": "",
+    "appId": "",
+    "guilds": {
+        "developmentGuildId": "",
+        "specifiedGuildId": ""
+    },
+    "options": {
+        "useSpecifiedGuildOnly": false,
+        "developmentMode": true,
+        "resetCommandName": "reset"
+    },
+    "channels": {
+        "logs": "",
+        "errors": ""
+    }
+}
